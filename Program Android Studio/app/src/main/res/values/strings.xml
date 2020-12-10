@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Parkirin</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Mulai Parkir</string>
+    <string name="notice1">Siap Parkir ??</string>
+    <string name="notice2">Parkir 1</string>
+    <string name="notice3">Parkir 2</string>
+    <string name="notice4">Parkir 3</string>
+    <string name="caution1">status</string>
+    <string name="caution2">status</string>
+    <string name="caution3">status</string>
+    <string name="Splash">TODO</string>
+    <string name="stop">Berhenti Parkir</string>
+    <string name="Harga">00</string>
+</resources>

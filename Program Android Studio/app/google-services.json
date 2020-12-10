@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "778780588451",
+    "firebase_url": "https://sistem-parkir-9f7d9.firebaseio.com",
+    "project_id": "sistem-parkir-9f7d9",
+    "storage_bucket": "sistem-parkir-9f7d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778780588451:android:cbf2ff412f84cafa344216",
+        "android_client_info": {
+          "package_name": "com.sistem.parkiran.cekservo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778780588451-soqps83j9qk0ksjtjipp7arrggc9dgd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYFXdSh5q9toVcLKmVoe2Ucvbziz-b4OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778780588451-soqps83j9qk0ksjtjipp7arrggc9dgd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778780588451:android:cc8ae4e5d182fd8e344216",
+        "android_client_info": {
+          "package_name": "com.sistem.parkiran.tugasakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778780588451-soqps83j9qk0ksjtjipp7arrggc9dgd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYFXdSh5q9toVcLKmVoe2Ucvbziz-b4OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778780588451-soqps83j9qk0ksjtjipp7arrggc9dgd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
